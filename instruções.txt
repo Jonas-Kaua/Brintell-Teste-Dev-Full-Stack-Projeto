@@ -6,6 +6,10 @@ PARTICIPANTE: JONAS KAUÃ FARIAS DE SOUSA
 *** INSTRUÇÕES PARA RODAR O PROJETO ***
 
 abra o front e o back end em um programa que os execute (VsCode de exemplo)
+
+baixe as dependências do Front e do back rodando o comando de instalação dependendo do 
+pacote que você tenha instalado ('npm install' por exemplo).
+
 comandos para startar o front e o back end :
 
 'yarn dev' ou qualquer outro comando de pacote que suporte executar o projeto
