@@ -1,0 +1,19 @@
+
+BRINTELL - TESTE DEV FULL STACK 
+
+PARTICIPANTE: JONAS KAUÃ FARIAS DE SOUSA
+
+*** INSTRUÇÕES PARA RODAR O PROJETO ***
+
+abra o front e o back end em um programa que os execute (VsCode de exemplo)
+comandos para startar o front e o back end :
+
+'yarn dev' ou qualquer outro comando de pacote que suporte executar o projeto
+
+execute o SQL do model criado para o projeto e suba o seu MySql para que o banco fique
+no ar
+
+*Em resumo starte o front, back, e o Sql para que a aplicação funcione e acesso o link
+do seu localhost do front para que exiba o sistema*
+
+Obrigado por ler :)
